@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ex1st3nce" alt="ex1st3nce" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python & Machine Learning**
 
 - 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 🤝 I’m looking for help with **Deep Learning, AI**
+- 🤝 I’m looking for help with **Statistics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EX1ST3NCE?tab=repositories](https://github.com/EX1ST3NCE?tab=repositories)
 
