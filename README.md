@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, Python, reactjs.**
 
-- 📫 How to reach me **prasadnitin05@gmail.com**
+- 📫 How to reach me **[Mail Me!](prasadnitin05@gmail.com)**
 
 - 📄 Know about my experiences [https://github.com/EX1ST3NCE/EX1ST3NCE/blob/main/Nitin's%20Resume.pdf](https://github.com/EX1ST3NCE/EX1ST3NCE/blob/main/Nitin's%20Resume.pdf)
 
