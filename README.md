@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EX1ST3NCE?tab=repositories](https://github.com/EX1ST3NCE?tab=repositories)
 
-- 💬 Ask me about **Java, Python, reactjs.**
+- 💬 Ask me about **python, java, reactjs.**
 
 - 📫 How to reach me **[Mail Me!](mailto:prasadnitin05@gmail.com)**
 
-- 📄 Know about my experiences [https://github.com/EX1ST3NCE/EX1ST3NCE/blob/main/Nitin's%20Resume.pdf](https://github.com/EX1ST3NCE/EX1ST3NCE/blob/main/Nitin's%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/EX1ST3NCE/EX1ST3NCE/blob/main/Nitin's%20Resume.pdf)
 
 - ⚡ Fun fact **Love pizzas as much I do? Let's talk about how awesome they are!**
 
