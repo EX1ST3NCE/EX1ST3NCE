@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python & Machine Learning**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
