@@ -19,7 +19,8 @@
 
 - 📫 How to reach me **[Mail Me ✉](mailto:prasadnitin05@gmail.com)**
 
-- 📄 Know about my experiences [Resume](https://github.com/EX1ST3NCE/EX1ST3NCE/blob/main/Nitin's%20Resume.pdf)
+- 📄 Know about my experiences [Resume ![image](https://user-images.githubusercontent.com/34628743/110793891-25c2d780-829b-11eb-8701-ad6a896999f4.png)
+](https://github.com/EX1ST3NCE/EX1ST3NCE/blob/main/Nitin's%20Resume.pdf)
 
 - ⚡ Fun fact **Love pizzas as much I do? Let's talk about how awesome they are!**
 
