@@ -13,14 +13,13 @@
 
 - 🤝 I’m looking for help with **Statistics**
 
-- 👨‍💻 All of my projects are available at [](https://github.com/EX1ST3NCE?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/EX1ST3NCE?tab=repositories)
 
 - 💬 Ask me about **python, java, reactjs.**
 
 - 📫 How to reach me **[Mail Me ✉](mailto:prasadnitin05@gmail.com)**
 
-- 📄 Know about my experiences [Resume![image](https://user-images.githubusercontent.com/34628743/110794006-468b2d00-829b-11eb-8721-0fbb4d0c65cc.png)
-](https://github.com/EX1ST3NCE/EX1ST3NCE/blob/main/Nitin's%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/EX1ST3NCE/EX1ST3NCE/blob/main/Nitin's%20Resume.pdf)
 
 - ⚡ Fun fact **Love pizzas as much I do? Let's talk about how awesome they are!**
 
