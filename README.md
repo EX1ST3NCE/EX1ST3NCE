@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **Statistics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EX1ST3NCE?tab=repositories](https://github.com/EX1ST3NCE?tab=repositories)
+- 👨‍💻 All of my projects are available at [](https://github.com/EX1ST3NCE?tab=repositories)
 
 - 💬 Ask me about **python, java, reactjs.**
 
-- 📫 How to reach me **[Mail Me!](mailto:prasadnitin05@gmail.com)**
+- 📫 How to reach me **[Mail Me ✉](mailto:prasadnitin05@gmail.com)**
 
 - 📄 Know about my experiences [Resume](https://github.com/EX1ST3NCE/EX1ST3NCE/blob/main/Nitin's%20Resume.pdf)
 
