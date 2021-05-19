@@ -27,7 +27,7 @@
 <p align="left">
 <a href="/https://www.linkedin.com/in/nitin-prasad-6a705012a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nitin-prasad-6a705012a/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nitinn_prasad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/nitinn_prasad/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prasadnitin05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/prasadnitin05" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/EX1STENCE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/EX1STENCE" height="30" width="40" /></a>
 <a href="https://leetcode.com/ex1st3nce/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/ex1st3nce/" height="30" width="40" /></a>
 </p>
 
