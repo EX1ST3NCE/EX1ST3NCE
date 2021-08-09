@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 🤝 I’m looking for help with **Big Data**
+- 🤝 I’m looking for help with **Microsoft Azure**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/EX1ST3NCE?tab=repositories)
 
